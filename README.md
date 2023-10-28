@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on healthcare digital organization
+- 🌱 I’m currently teaching Android and iOS mobile application development
+
+
+  
 <!--
 **carlos-aldeias-estg/carlos-aldeias-estg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
